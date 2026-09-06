@@ -1,0 +1,20 @@
+PYTHON:Linguagem de programação versátil
+GIRAFA:Animal de pescoço longo
+TECLADO:Periférico usado para digitar
+COMPUTADOR:Máquina para processamento de dados
+ABACAXI:Fruta tropical com coroa
+ASTRONAUTA:Pessoa que viaja para o espaço
+BIBLIOTECA:Lugar com acervo de livros
+CAFE:Bebida quente estimulante
+DINOSSAURO:Répteis pré-históricos extintos
+ELEFANTE:Maior mamífero terrestre
+FUTEBOL:Esporte jogado com os pés e uma bola
+GUITARRA:Instrumento musical de cordas
+HOLOGRAMA:Projeção tridimensional de luz
+INTERNET:Rede mundial de computadores
+MISTÉRIO:Algo secreto ou inexplicável
+ORQUÍDEA:Flor ornamental conhecida por suas cores
+PIZZA:Prato italiano famoso e popular
+SUBMARINO:Embarcação que navega debaixo d'água
+TELEFONE:Dispositivo para comunicação de voz
+VULCÃO:Abertura na crosta terrestre que expele lava
